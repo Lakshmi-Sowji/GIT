@@ -1,3 +1,4 @@
+//Here Subtraction class acts as a parent to Addition class
 //This is my first programme.
 //Here i am performing the addition of two integer variables.
 class Addition extends Subtraction
